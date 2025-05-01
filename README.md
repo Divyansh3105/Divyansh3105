@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Divyansh Garg
 
 <!--
 **Divyansh3105/divyansh3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
