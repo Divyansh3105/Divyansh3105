@@ -1,16 +1,29 @@
-## I am Divyansh Garg
+# 👋 Hi there, I'm Divyansh Garg!
 
-<!--
-**Divyansh3105/divyansh3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Hi there 👋
+---
+- 🌱 I’m currently learning: C, C++, Python, Web Development
+- 👯 I’m looking to collaborate on GitHub and LinkedIn
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+---
+
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=radical" alt="Your GitHub stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=radical" alt="Top languages" />
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [divyanshgarg3105@gmail.com](mailto:divyanshgarg3105@gmail.com)
+- 💼 LinkedIn: [Divyansh3105](www.linkedin.com/in/divyanshgarg3105)
