@@ -4,6 +4,8 @@
 ---
 - 🌱 I’m currently learning: C, C++, Python, Web Development
 - 👯 I’m looking to collaborate on GitHub and LinkedIn
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/divyanshgarg3105)
+- ⚡ Fun fact: I love coffee and coding late into the night!
 
 ## 🔧 Technologies & Tools
 
@@ -18,7 +20,6 @@
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=radical" alt="Your GitHub stats" />
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=radical" alt="Top languages" />
 
 ---
