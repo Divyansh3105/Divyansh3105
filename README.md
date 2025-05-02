@@ -27,8 +27,7 @@
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=radical" alt="Your GitHub stats" />
-
+<img  alt="Divyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=radical" alt="Your GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=radical" alt="Top languages" />
 
 ---
