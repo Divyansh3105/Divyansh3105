@@ -1,38 +1,32 @@
-# 👋 Hi there, I'm Divyansh Garg!
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🌟 Hi there 👋
----
-- 🌱 I’m currently learning: C, C++, Python, Web Development
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,+Programmers!👋;I'm+Divyansh+Garg...;Welcome+to+my+Profile!&center=true&size=30&color=00F79E&vCenter=true&pause=1000&width=500&height=50">
+  </a>
+</h1>
+
+## 💫 About Me:
+- 🌱 I’m currently learning: C, C++, Web Development
 - 👯 I’m looking to collaborate on GitHub and LinkedIn
 - ⚡ Fun fact: I love coffee and coding late into the night!
----
-## 🚀 Profiles
 
-| Platform   | Badge |
-|------------|--------|
-| LinkedIn | [![divyanshgarg3105](https://img.shields.io/badge/-divyanshgarg3105-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshgarg3105/)|
-| GitHub | [![Github](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Divyansh3105)|
 
----
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-## 🔧 Technologies & Tools
+## 📊 GitHub Stats:
+<div align="center">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&theme=algolia&show_icons=true&hide_border=false" alt="stats graph">
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" alt="streak graph" >
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&langs_count=8&theme=algolia" alt="languages graph">
+</div>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+## 🌐 Socials:
 
----
-
-## 📈 GitHub Stats
-
-<img  alt="Divyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=radical" alt="Your GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=radical" alt="Top languages" />
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: [divyanshgarg3105@gmail.com](mailto:divyanshgarg3105@gmail.com)
-- 💼 LinkedIn: [Divyansh3105](www.linkedin.com/in/divyanshgarg3105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshgarg3105) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshgarg3105@gmail.com) 
