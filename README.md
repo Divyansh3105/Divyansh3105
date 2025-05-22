@@ -8,6 +8,8 @@
   </a>
 </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyansh3105&label=Profile%20views&color=red&style=flat" alt="Divyansh Garg" /> </p>
+
 ## 💫 About Me:
 - 🌱 I’m currently learning: C, C++, Web Development
 - 👯 I’m looking to collaborate on GitHub and LinkedIn
