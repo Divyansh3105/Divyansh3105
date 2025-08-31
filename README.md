@@ -8,27 +8,47 @@
   </a>
 </h1>
 
+
+🎓 **B.Tech CSE | 3rd Semester | Aspiring Developer**  
+💻 Passionate about **C, C++, Web Development** and building creative, interactive projects.  
+🌱 Currently learning and exploring new technologies to grow as a developer.  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyansh3105&label=Profile%20views&color=red&style=flat" alt="Divyansh Garg" /> </p>
 
-## 💫 About Me:
-- 🌱 I’m currently learning: C, C++, Web Development
-- 👯 I’m looking to collaborate on GitHub and LinkedIn
-- ⚡ Fun fact: I love coffee and coding late into the night!
+## 🚀 About Me  
+- 🔭 I’m currently working on projects like **Solar System Explorer**, **Assassin’s Creed Tribute**, **Call of Duty Tribute Site**, and more.  
+- 🌱 I’m learning **C, C++, Web Development** and gradually exploring **Python**.  
+- 🎯 Goal: To develop impactful software solutions and enhance my problem-solving skills.  
+- ⚡ Fun fact: Coffee keeps my late-night coding sessions alive ☕💻  
 
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats:
-<div align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&theme=algolia&show_icons=true&hide_border=false" alt="stats graph">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" alt="streak graph" >
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&langs_count=8&theme=algolia" alt="languages graph">
-</div>
+## 📌 Featured Projects  
+- 🌌 **Solar-System-Explorer** → Interactive solar system with only **HTML & CSS** animations.  
+- 🕹️ **Call-Of-Duty Tribute Site** → Tribute pages for all CoD games using **Bootstrap + Tailwind CSS**.  
+- 🗡️ **Assassin’s-Creed Tribute Site** → Multi-page site honoring the AC franchise with modern UI.  
+- ☁️ **Cloud-Storage** → Secure cloud file storage with sharing functionality.  
+- 🎵 **Flix-Vibes** → Entertainment project exploring movies and music vibes.  
+- ⚡ **Smart-Sort-Selector** → Algorithm-focused project showcasing problem-solving skills.  
 
-## 🌐 Socials:
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshgarg3105) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshgarg3105@gmail.com) 
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/divyanshgarg3105"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:divyanshgarg3105@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Divyansh3105"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p> 
+
+✨ _“Always learning, always building — one project at a time.”_  
