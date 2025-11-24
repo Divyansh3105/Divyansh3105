@@ -4,51 +4,206 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,+Programmers!👋;I'm+Divyansh+Garg...;Welcome+to+my+Profile!&center=true&size=30&color=00F79E&vCenter=true&pause=1000&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,+Programmers!+👋;I'm+Divyansh+Garg;Full-Stack+Developer+in+the+Making;Welcome+to+my+Profile!&center=true&size=30&color=00F79E&vCenter=true&pause=1000&width=600&height=50">
   </a>
 </h1>
 
-
-🎓 **B.Tech CSE | 3rd Semester | Aspiring Developer**  
-💻 Passionate about **C, C++, Web Development** and building creative, interactive projects.  
-🌱 Currently learning and exploring new technologies to grow as a developer.  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyansh3105&label=Profile%20views&color=red&style=flat" alt="Divyansh Garg" /> </p>
-
-## 🚀 About Me  
-- 🔭 I’m currently working on projects like **Solar System Explorer**, **Assassin’s Creed Tribute**, **Call of Duty Tribute Site**, and more.  
-- 🌱 I’m learning **C, C++, Web Development** and gradually exploring **Python**.  
-- 🎯 Goal: To develop impactful software solutions and enhance my problem-solving skills.  
-- ⚡ Fun fact: Coffee keeps my late-night coding sessions alive ☕💻  
-
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-
-## 📌 Featured Projects  
-- 🌌 **Solar-System-Explorer** → Interactive solar system with only **HTML & CSS** animations.  
-- 🕹️ **Call-Of-Duty Tribute Site** → Tribute pages for all CoD games using **Bootstrap + Tailwind CSS**.  
-- 🗡️ **Assassin’s-Creed Tribute Site** → Multi-page site honoring the AC franchise with modern UI.  
-- ☁️ **Cloud-Storage** → Secure cloud file storage with sharing functionality.  
-- 🎵 **Flix-Vibes** → Entertainment project exploring movies and music vibes.  
-- ⚡ **Smart-Sort-Selector** → Algorithm-focused project showcasing problem-solving skills.  
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
+  <img src="https://komarev.com/ghpvc/?username=Divyansh3105&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Divyansh3105?label=Followers&style=for-the-badge&color=red" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Divyansh3105?label=Stars&style=for-the-badge&color=red" alt="Stars" />
+</p>
 
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/divyanshgarg3105"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:divyanshgarg3105@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Divyansh3105"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p> 
+---
 
-✨ _“Always learning, always building — one project at a time.”_  
+## 👨‍💻 About Me
+```javascript
+const divyansh = {
+    education: "B.Tech CSE | 3rd Semester",
+    currentFocus: ["C/C++", "Web Development", "DSA"],
+    learningNext: ["Python", "JavaScript Frameworks", "Backend Development"],
+    funFact: "Coffee-powered coder ☕ | Night owl 🦉",
+    motto: "Always learning, always building — one project at a time"
+};
+```
+
+🎯 **Current Mission:** Building impactful software solutions while mastering data structures, algorithms, and modern web technologies.
+
+💡 **Interests:** Problem-solving through code, creating interactive web experiences, and exploring game development concepts.
+
+⚡ **Drive:** Passionate about transforming ideas into reality through clean, efficient code.
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages & Core Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Development Environment
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌌 Solar System Explorer</h3>
+      <p align="center">
+        <a href="https://github.com/Divyansh3105/Solar-System-Explorer">
+          <img src="https://img.shields.io/badge/Repo-View_Code-red?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Interactive 3D solar system built with pure <strong>HTML & CSS</strong> animations. Features planetary orbits, scaling, and smooth animations without JavaScript.</p>
+      <p><strong>Tech:</strong> HTML5, CSS3, Animations</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗡️ Assassin's Creed Tribute</h3>
+      <p align="center">
+        <a href="https://github.com/Divyansh3105/Assassins-Creed-Tribute-Site">
+          <img src="https://img.shields.io/badge/Repo-View_Code-red?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Multi-page tribute site honoring the AC franchise with modern UI/UX design, responsive layouts, and immersive visuals.</p>
+      <p><strong>Tech:</strong> HTML, CSS, Bootstrap, JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎮 Call of Duty Tribute Site</h3>
+      <p align="center">
+        <a href="https://github.com/Divyansh3105/Call-Of-Duty-Tribute-Site">
+          <img src="https://img.shields.io/badge/Repo-View_Code-red?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Comprehensive tribute pages for CoD games featuring <strong>Bootstrap + Tailwind CSS</strong> for a sleek, responsive design.</p>
+      <p><strong>Tech:</strong> Bootstrap, Tailwind CSS, HTML/CSS</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☁️ Cloud Storage System</h3>
+      <p align="center">
+        <a href="https://github.com/Divyansh3105/Cloud-Storage">
+          <img src="https://img.shields.io/badge/Repo-View_Code-red?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Secure cloud file storage solution with sharing functionality, user authentication, and file management capabilities.</p>
+      <p><strong>Tech:</strong> MySQL, Backend Logic, Web Development</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Smart Sort Selector</h3>
+      <p align="center">
+        <a href="https://github.com/Divyansh3105/Smart-Sort-Selector">
+          <img src="https://img.shields.io/badge/Repo-View_Code-red?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Algorithm visualization and comparison tool showcasing various sorting techniques with performance metrics.</p>
+      <p><strong>Tech:</strong> C++, Data Structures & Algorithms</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎵 Flix Vibes</h3>
+      <p align="center">
+        <a href="https://github.com/Divyansh3105/Flix-Vibes">
+          <img src="https://img.shields.io/badge/Repo-View_Code-red?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Entertainment hub exploring movies and music with interactive UI and content discovery features.</p>
+      <p><strong>Tech:</strong> Web Development, API Integration</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Divyansh3105?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-red?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh3105&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyansh3105&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎯 Current Focus
+```cpp
+class CurrentGoals {
+public:
+    vector<string> shortTerm = {
+        "Master Data Structures & Algorithms",
+        "Build 10+ web development projects",
+        "Contribute to open-source projects",
+        "Learn backend development with Node.js"
+    };
+    
+    vector<string> longTerm = {
+        "Become a full-stack developer",
+        "Build production-ready applications",
+        "Contribute to impactful tech solutions",
+        "Mentor aspiring developers"
+    };
+};
+```
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyanshgarg3105">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:divyanshgarg3105@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Divyansh3105">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</p>
+
+<div align="center">
+  
+### 💭 *"The only way to do great work is to love what you do."* — Steve Jobs
+
+**Show some ❤️ by starring ⭐ some of my repositories!**
+
+</div>
