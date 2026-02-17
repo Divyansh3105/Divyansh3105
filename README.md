@@ -69,10 +69,6 @@ const divyansh = {
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh3105&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyansh3105&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🎯 Current Focus
