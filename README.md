@@ -57,24 +57,6 @@ const divyansh = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh3105&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyansh3105&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🎯 Current Focus
 ```cpp
 class CurrentGoals {
