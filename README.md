@@ -60,12 +60,12 @@ const divyansh = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=tokyonight" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=tokyonight)
 </p>
 
 ---
