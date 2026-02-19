@@ -65,7 +65,7 @@ const divyansh = {
 </p>
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Divyansh3105&layout=compact&theme=tokyonight" width="48%">
 </p>
 
 ---
