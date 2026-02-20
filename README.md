@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 ```javascript
 const divyansh = {
-    education: "B.Tech CSE | 3rd Semester",
+    education: "B.Tech CSE | 6th Semester",
     currentFocus: ["C/C++", "Web Development", "DSA"],
     learningNext: ["Python", "JavaScript Frameworks", "Backend Development"],
     funFact: "Coffee-powered coder ☕ | Night owl 🦉",
