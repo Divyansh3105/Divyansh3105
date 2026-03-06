@@ -76,7 +76,6 @@ class CurrentGoals {
 public:
     vector<string> shortTerm = {
         "Master Data Structures & Algorithms",
-        "Build 10+ web development projects",
         "Contribute to open-source projects",
         "Learn backend development with Node.js"
     };
