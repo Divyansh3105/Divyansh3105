@@ -84,7 +84,7 @@ public:
         "Become a full-stack developer",
         "Build production-ready applications",
         "Contribute to impactful tech solutions",
-        
+        "Mentor aspiring developers"
     };
 };
 ```
