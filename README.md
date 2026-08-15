@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Divyansh+Garg;Full-Stack+Developer+in+the+Making;I+build+interactive+web+experiences&center=true&size=28&color=00F79E&vCenter=true&pause=1000&width=600&height=50" alt="Typing SVG" />
 
+
+
 <img src="https://komarev.com/ghpvc/?username=Divyansh3105&label=Profile%20views&color=00F79E&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Divyansh3105?label=Followers&style=flat-square&color=00F79E" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Divyansh3105?label=Stars&style=flat-square&color=00F79E" alt="Stars" />
