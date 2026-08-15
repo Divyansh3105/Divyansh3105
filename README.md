@@ -70,7 +70,7 @@ Each of these started as "I wish this existed for [franchise]" — then became a
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Divyansh3105&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
 <br/>
 
