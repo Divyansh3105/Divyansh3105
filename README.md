@@ -1,84 +1,135 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,100:00F79E&section=header" width="100%" alt="" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Divyansh+Garg;B.Tech+CSE+Student;Learning+Full-Stack+Development&center=true&size=24&color=00F79E&vCenter=true&pause=1200&width=550&height=45" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Divyansh+Garg;I+build+things+I+actually+use;Full-stack+%C2%B7+Desktop+%C2%B7+AI&center=true&size=26&color=00F79E&vCenter=true&pause=1200&width=560&height=50" alt="Hi, I'm Divyansh Garg" />
 
-**B.Tech CSE Student • Web Developer • Learning Full-Stack Development**
+**B.Tech CSE @ Graphic Era Hill University, Dehradun · Full-stack developer**
 
-[GitHub](https://github.com/Divyansh3105) · [LinkedIn](https://www.linkedin.com/in/divyanshgarg3105) · [Email](mailto:divyanshgarg3105@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F79E?style=for-the-badge&logo=netlify&logoColor=black)](https://divyanshgarg3105.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshgarg3105)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshgarg3105@gmail.com)
 
 </div>
 
----
+### 👋 About me
 
-### About me
+I learn by building things, not by following tutorials. If I care about something, whether it's an anime, a game, or the solar system, I end up building something around it. That's how I picked up most of what I know: I needed it for something I was already obsessed with.
 
-I learn by building worlds, not tutorials. If I care about something — an anime, a game, the solar system — I'll end up building a site around it, and that's usually how I pick up a new CSS trick or JS pattern. I needed it for the thing I was already obsessed with.
+I started out with front-end and UI work. These days most of my projects have a real backend behind them: auth, databases, real-time features, and LLM APIs.
 
-I'm a B.Tech CSE student right now. Most of what's below started as front-end/UI work, but I'm moving into backend so my projects can eventually have real data behind them instead of hardcoded content.
-
-### What I'm working on
-
-- Backend basics — trying to get comfortable enough to connect my front-end projects to something real
-- DSA, mostly because it keeps showing up everywhere else
-- Slowly picking up a JS framework instead of writing everything in vanilla JS
-
-### Currently learning
-
-`Python` · `Node.js` · a JavaScript framework · backend fundamentals
+- 🏪 **Shipped** a desktop app on the Microsoft Store, with CI and versioned releases
+- 🧪 **Designed** my own programming language, with an interpreter, an IDE, and 285 passing tests
+- 🤖 **Building** with LLMs: multi-model fallback, vector memory, and voice input
+- 🚨 **Working on** an explainable disaster-response system as my B.Tech major project
 
 ---
 
-### Projects
+### ⭐ Featured
+
+<h3 align="center">🎮 Playdex: all your Steam, Epic and GOG games in one app</h3>
+
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9PMW08P8FQK8"><img src="https://get.microsoft.com/images/en-us%20dark.svg" height="44" alt="Get it from Microsoft" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Divyansh3105/playdex/releases/latest"><img src="https://img.shields.io/github/v/release/Divyansh3105/playdex?style=flat-square&color=00F79E" alt="Latest release" /></a>
+  <a href="https://github.com/Divyansh3105/playdex/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/Divyansh3105/playdex/tests.yml?style=flat-square&label=tests" alt="Tests" /></a>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Divyansh3105/playdex"><img src="https://raw.githubusercontent.com/Divyansh3105/playdex/main/docs/demo.gif" width="85%" alt="Playdex demo: library, filters, stats and disk space" /></a>
+</p>
+
+<p align="center">
+My games were spread across three launchers, and I kept forgetting which one had which game. Playdex reads each launcher's local data and puts everything in one library. It finds games you own twice, tracks playtime, shows disk usage, and can pick something from your backlog for you. It needs no logins and uploads nothing.
+</p>
+
+<br />
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 💬 [TalkSpace](https://github.com/Divyansh3105/TalkSpace)
+A real-time social app with JWT auth, a friend system, instant messaging, and one-on-one video calls.
+
+`React` `Node.js` `Express` `MongoDB` `Stream`
+
+[**Live demo →**](https://talkspace-i5d2.onrender.com/)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🤖 [CIPHER](https://github.com/Divyansh3105/CIPHER)
+An AI assistant with three personas that share one memory. It uses pgvector for long-term memory, falls back from Gemini to Groq, and switches voice input to Whisper when the browser can't handle speech.
+
+`Next.js` `FastAPI` `PostgreSQL` `pgvector`
+
+[**Live demo →**](https://cipher-smoky-phi.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧪 [GravLang](https://github.com/Divyansh3105/GravLang)
+My own interpreted language, with classes, closures, exceptions and a formatter. It comes with a GUI IDE that has step debugging and a view of each compiler stage.
+
+`Python` `AST interpreter` `Tkinter`
+
+[**Source →**](https://github.com/Divyansh3105/GravLang)
+
+</td>
+</tr>
+</table>
+
+### 🔨 Currently building
+
+| | |
+|---|---|
+| 🚨 **[RescueAI](https://github.com/Divyansh3105/RescueAI)** | My B.Tech major project: decision support for disaster rescue in Uttarakhand. It ranks rescue requests and matches volunteers and SDRF/NDRF teams to them, and it shows how every score was calculated. A human approves every dispatch, and every decision goes into an audit log. |
+| 📊 **[RepoScope](https://github.com/Divyansh3105/RepoScope)** | Turns GitHub profiles and CSV files into statistics and charts using only plain PHP and hand-drawn HTML5 Canvas, with no frameworks, chart libraries, or database. |
+
+<details>
+<summary><b>📁 More projects</b>: full-stack apps, tools, and the CSS fan sites where I started</summary>
+
+<br />
 
 | Project | What it is | Stack | Demo |
 |---|---|---|---|
-| [**SolarExplorer**](https://github.com/Divyansh3105/SolarExplorer) | Interactive solar system visualization — planet orbits and scaling done with pure CSS animations, no libraries | `HTML` `CSS` | [Live](https://solarexplorers.netlify.app/) |
-| [**Shield-of-Wrath**](https://github.com/Divyansh3105/Shield-of-Wrath) | Quiz app based on The Rising of the Shield Hero. JS handles the quiz logic, scoring, and theme switching; CSS handles the particle effects | `HTML` `CSS` `JS` | [Live](https://divyansh3105.github.io/Shield-of-Wrath/) |
-| [**slimechronicles**](https://github.com/Divyansh3105/slimechronicles) | Interactive codex/timeline for the Tensura universe — character profiles and events laid out and styled with CSS | `CSS` | [Live](https://slimechronicles.netlify.app/) |
-| [**Assassins-Creed**](https://github.com/Divyansh3105/Assassins-Creed) | Multi-section site covering the AC franchise's lore, built to practice layout and CSS structuring on a content-heavy page | `CSS` | [Live](https://assassins-creed-tribute.netlify.app/) |
-| [**Call-Of-Duty**](https://github.com/Divyansh3105/Call-Of-Duty) | Multi-page tribute site for the CoD franchise, first project where I used Bootstrap and Tailwind together to compare them | `HTML` `Bootstrap` `Tailwind` | [Live](https://call-of-duty-tribute.netlify.app/) |
-| [**Portfolio**](https://github.com/Divyansh3105/Portfolio) | My personal portfolio site | `TypeScript` | [Live](https://divyanshgarg3105.netlify.app/) |
+| [Public Utility Management System](https://github.com/Divyansh3105/Public-Utility-Management-System) | Billing, payments and admin for electricity and water utilities | `PHP` `MySQL` | [Live](https://publicutilitymanagementsystem.gt.tc) |
+| [CPU Scheduling Simulator](https://github.com/Divyansh3105/CPU-Scheduling-Simulator-) | Visualizes OS scheduling algorithms | `JS` `PHP` | |
+| [Github Finder](https://github.com/Divyansh3105/Github-Finder) | Looks up developer profiles through the GitHub API | `JS` | [Live](https://gitdevprofile.vercel.app/) |
+| [SolarExplorer](https://github.com/Divyansh3105/SolarExplorer) | A 3D solar system made with pure CSS animations and no JS libraries | `HTML` `CSS` | [Live](https://solarexplorers.netlify.app/) |
+| [slimechronicles](https://github.com/Divyansh3105/slimechronicles) | An interactive codex and timeline for the Tensura universe | `CSS` | [Live](https://slimechronicles.netlify.app/) |
+| [Shield-of-Wrath](https://github.com/Divyansh3105/Shield-of-Wrath) | A Shield Hero quiz with two themes, particle effects and scoring | `JS` | [Live](https://divyansh3105.github.io/Shield-of-Wrath/) |
+| [Assassins-Creed](https://github.com/Divyansh3105/Assassins-Creed) | A multi-section lore site for the AC franchise | `CSS` | [Live](https://assassins-creed-tribute.netlify.app/) |
+| [Call-Of-Duty](https://github.com/Divyansh3105/Call-Of-Duty) | A multi-page tribute site where I compared Bootstrap and Tailwind | `Bootstrap` `Tailwind` | [Live](https://call-of-duty-tribute.netlify.app/) |
+
+</details>
 
 ---
 
-### Tech stack
-
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### GitHub stats
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh3105&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-### Connect
+### 🛠️ Tech stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyanshgarg3105">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:divyanshgarg3105@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Divyansh3105">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,c,html,css&perline=8" alt="Languages" /></a>
+  <br />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,electron,tailwind,bootstrap&perline=8" alt="Frameworks" /></a>
+  <br />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,docker,git,githubactions,vercel&perline=8" alt="Databases and tools" /></a>
 </p>
+
+---
+
+### 📈 GitHub stats
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Divyansh3105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Divyansh3105&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+<br />
+<img src="https://streak-stats.demolab.com/?user=Divyansh3105&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:00F79E,100:0d1117&section=footer" width="100%" alt="" />
